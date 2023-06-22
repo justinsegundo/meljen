@@ -1,0 +1,1 @@
+web: gunicorn ct226wew.wsgi:application --log-file -
